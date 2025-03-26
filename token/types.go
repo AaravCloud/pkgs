@@ -1,6 +1,6 @@
 // Signer 接口定义
 
-package auth
+package token
 
 import (
 	"errors"

@@ -1,6 +1,6 @@
 // RSASigner 实现
 
-package auth
+package token
 
 import (
 	"crypto/rsa"

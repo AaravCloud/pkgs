@@ -1,6 +1,6 @@
 // TokenManager 核心管理类
 
-package auth
+package token
 
 import (
 	"context"
